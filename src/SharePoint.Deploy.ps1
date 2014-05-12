@@ -7,7 +7,7 @@ $identity = "SharePoint.wsp"
 $pathWspFile = "$scriptPath\$identity"
 $xml = [xml](get-content "$scriptPath\SharePoint.Configuration.xml")
 
-#Region Fonctions Externes
+#Region Externals Functions
 . ".\SharePoint.Functions.ps1"
 #EndRegion
 
