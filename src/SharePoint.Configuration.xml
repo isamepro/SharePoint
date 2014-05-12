@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Features>
+	<Feature Name="Name of your feature to deploy 1" />
+	<Feature Name="Name of your feature to deploy 2" />
+	<Feature Name="Name of your feature to deploy 3" />
+</Features>
